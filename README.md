@@ -7,3 +7,4 @@ git remote add origin ( select your code under https URL) --> use for connecting
 git push -u origin master --> this command push your code to github.
 
 Note - You have to remember only onething that is branch, If the branch name is change all the branch name will be reflected on same name.
+Note - This project content all the information related to the documentation and source code.
